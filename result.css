@@ -16,3 +16,17 @@ header {
     position: absolute;
     right: 0;
   }
+  #navbar {
+    position: absolute;
+    }
+  #nav-link-div {
+    margin-left: 100px;
+  }
+  ul {
+    display: flex;
+  }
+  li {
+    display: inline;
+    padding: 10px;
+    padding-left: 30px;
+  }
