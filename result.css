@@ -40,11 +40,12 @@ html {
   }
   main {
     position: absolute;
+    width: 550px;
     margin-top: 60px;
     margin-left: 150px;
   }
   #snippet {
-    width: 550px;
     border-style: solid;
     border-width: thin;
+    padding: 15px;
   }
