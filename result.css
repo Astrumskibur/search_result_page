@@ -10,7 +10,7 @@ header {
     position: absolute;
     display: flex;
     margin-left: 150px;
-    width: 500px;
+    width: 550px;
   }
   #sign-in {
     position: absolute;
@@ -33,4 +33,8 @@ header {
     display: inline;
     padding: 10px;
     padding-left: 20px;
+  }
+  main {
+    position: absolute;
+    margin-top: 60px;
   }
