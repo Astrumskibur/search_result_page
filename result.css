@@ -56,10 +56,15 @@ html {
   }
   #search-pages {
     position: absolute;
-    
+    left: -60px;
   }
   #next {
     position: relative;
     bottom: 45px;
     left: 450px;
+  }
+  footer {
+    position: absolute;
+    bottom: -1000px;
+    left: 100px;
   }
