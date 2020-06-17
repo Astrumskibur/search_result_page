@@ -1,8 +1,12 @@
-header {
+html {
+    display: block;
+  }
+  header {
     position: relative;  
   }
   #img {
     position: absolute;
+    margin-left: 20px;
     height: 30px;
     width: 92px;
   }
@@ -37,4 +41,10 @@ header {
   main {
     position: absolute;
     margin-top: 60px;
+    margin-left: 150px;
+  }
+  #snippet {
+    width: 550px;
+    border-style: solid;
+    border-width: thin;
   }
