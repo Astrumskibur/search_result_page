@@ -1,0 +1,8 @@
+header {
+    position: relative;  
+  }
+  #img {
+    position: absolute;
+    height: 30px;
+    width: 92px;
+  }
