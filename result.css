@@ -49,3 +49,8 @@ html {
     border-width: thin;
     padding: 15px;
   }
+  #related-search-ul {
+    display: block;
+    width: 800px;
+    margin-left: -60px;
+  }
