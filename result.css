@@ -22,11 +22,15 @@ header {
   #nav-link-div {
     margin-left: 100px;
   }
+  #nav-link-div2 {
+    margin-left: 500px;
+    margin-top: -56px;
+  }
   ul {
     display: flex;
   }
   li {
     display: inline;
     padding: 10px;
-    padding-left: 30px;
+    padding-left: 20px;
   }
