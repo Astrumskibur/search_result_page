@@ -54,3 +54,12 @@ html {
     width: 800px;
     margin-left: -60px;
   }
+  #search-pages {
+    position: absolute;
+    
+  }
+  #next {
+    position: relative;
+    bottom: 45px;
+    left: 450px;
+  }
